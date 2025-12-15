@@ -1,4 +1,4 @@
-<img src="https://www.stylus.co.za/wp-content/uploads/2022/12/java-banner.png">
+<img src="https://images.icon-icons.com/2699/PNG/512/java_horizontal_logo_icon_167858.png">
 
 # ☕ Estudos em Java
 
