@@ -5,7 +5,7 @@
 
 ## 📅 Organização do Repositório
 
-- [POO](./POO)
+- [POO](./introducaoAPOO)
 - [Exercicios](./Exercicios)
 
 
