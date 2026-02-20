@@ -18,7 +18,8 @@ Repositório criado para acompanhar meu aprendizado em Java com foco em **POO**,
 - [Garbage collector e Escopo local](introducaoAPOO/09.Garbage-Collector-e-Escopo-local.md)
 - [Vetores](introducaoAPOO/10.Vetores.md)
 - [Boxing, Unboxing e Wrapper Classes](introducaoAPOO/11.Boxing-Unboxing-E-WrapperClasses.md)
-- [Foreach](introducaoAPOO/12.Foreach)
+- [Foreach](introducaoAPOO/12.Foreach.md)
+- [Matrizes](introducaoAPOO/13.Matrizes.md)
 
 ---
 
