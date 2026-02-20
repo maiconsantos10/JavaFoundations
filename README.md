@@ -15,7 +15,10 @@ Repositório criado para acompanhar meu aprendizado em Java com foco em **POO**,
 - [Encapsulamento](introducaoAPOO/06.Encapsulamento.md)
 - [Modificadores de acesso](introducaoAPOO/07.Modificadores-de-acesso.md)
 - [Tipo referência vs Tipo valor](introducaoAPOO/08.Tipo-referencia-vs-Tipo-valor.md)
-- [Garbage collector e Escopo local](introducaoAPOO/09.Garbage-Collector-e-Escopo-local.md)  
+- [Garbage collector e Escopo local](introducaoAPOO/09.Garbage-Collector-e-Escopo-local.md)
+- [Vetores](introducaoAPOO/10.Vetores.md)
+- [Boxing, Unboxing e Wrapper Classes](introducaoAPOO/11.Unboxing-E-WrapperClasses.md)
+- [Foreach](introducaoAPOO/12.Foreach)
 
 ---
 
